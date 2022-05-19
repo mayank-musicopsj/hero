@@ -105,7 +105,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/AARAVXD143/BANNA-OP",
+      "value": "https://github.com/BANNA-XD143/BANNA-OP",
       "required": true
     },
     "UPSTREAM_BRANCH": {
