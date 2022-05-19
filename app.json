@@ -10,12 +10,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "15875480",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "a7f2c7ca36f73cdd6722e8e7cd544b25",
       "required": true
     },
     "BOT_TOKEN": {
@@ -35,7 +35,7 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "Hero",
+      "value": "BANNA_X_MUSIC_BOT",
       "required": true
     },
     "SUPPORT_CHANNEL": {
@@ -45,7 +45,7 @@
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "love_birds_group",
+      "value": "LOVE_BIRDS_123",
       "required": false
     },
     "OWNER_ID": {
@@ -90,7 +90,7 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "",
+      "value": "-1001662535839",
       "required": true
     },
     "SUDO_USERS": {
