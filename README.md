@@ -4,7 +4,8 @@
 <p align="center">
     <a href="https://t.me/BANNA_XD_MUSIC_BOT"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
     <a href="https://t.me/LOVE_HEART_BEAT_143"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
-    <a href="https://t.me/love_birds_group"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
+    <a href="https://t.me/love_birds_group"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a>
+     <a href="https://t.me/LOVE_BIRDS_123"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a>
 </p>
     
 # ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° ᴍᴜsɪᴄs ʙᴏᴛ
@@ -52,7 +53,7 @@
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AARAVXD143/BANNA-OP)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
     
 </details>
 
