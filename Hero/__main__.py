@@ -116,7 +116,7 @@ async def initiate_bot():
             return
         try:
             await ASS_CLI_1.join_chat("LOVE_HEART_BEAT_143")
-            await ASS_CLI_1.join_chat("love_birds_group")
+            await ASS_CLI_1.join_chat("LOVE_BIRDS_123")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 1 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME1}")
@@ -135,7 +135,7 @@ async def initiate_bot():
             return
         try:
             await ASS_CLI_2.join_chat("LOVE_HEART_BEAT_143")
-            await ASS_CLI_2.join_chat("love_birds_group")
+            await ASS_CLI_2.join_chat("LOVE_BIRDS_123")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 2 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME2}")
@@ -154,7 +154,7 @@ async def initiate_bot():
             return
         try:
             await ASS_CLI_3.join_chat("LOVE_HEART_BEAT_143")
-            await ASS_CLI_3.join_chat("love_birds_group")
+            await ASS_CLI_3.join_chat("LOVE_BIRDS_123")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 3 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME3}")
@@ -173,7 +173,7 @@ async def initiate_bot():
             return
         try:
             await ASS_CLI_4.join_chat("LOVE_HEART_BEAT_143")
-            await ASS_CLI_4.join_chat("love_birds_group")
+            await ASS_CLI_4.join_chat("LOVE_BIRDS_123")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 4 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME4}")
@@ -211,7 +211,7 @@ async def initiate_bot():
             return
         try:
             await LOG_CLIENT.join_chat("LOVE_HEART_BEAT_143")
-            await LOG_CLIENT.join_chat("love_birds_group")
+            await LOG_CLIENT.join_chat("LOVE_BIRDS_123")
         except:
             pass
     console.print(f"└[red] ʜᴇʀᴏ ᴍᴜsɪᴄ ʙᴏᴛ ʙᴏᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ...")
