@@ -8,7 +8,7 @@
     <a href="https://t.me/LOVE_BIRDS_123"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a>
 </p>
     
-# ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° ᴍᴜsɪᴄ ʙᴏᴛ
+# ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° ᴍᴜsɪᴄs ʙᴏᴛ
 
 <p align="center"><a href="https://t.me/BANNA_XD"><img src="https://telegra.ph/file/eaa1c3f8fc5a0b6605ee3.jpg" width="300"></a></p>
 ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ʙʏ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ sᴛʀᴇᴀᴍ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ᴇᴠᴇɴ ʟɪᴠᴇ sᴛʀᴇᴀᴍs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄᴀʟʟs ᴠɪᴀ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs. ɪᴛ ᴄᴏᴍᴇs ᴡɪᴛʜ  ᴜsᴇʀ ғʀɪᴇɴᴅʟʏ ᴀɴᴅ ᴇᴀsʏ ᴛᴏ ᴜsᴇ ʏᴇᴛ ᴇʟᴇɢᴀɴᴛ ғᴇᴀᴛᴜʀᴇs.
@@ -60,11 +60,11 @@
     
 </details>
 
-## 🌟 Deploying on Qovery
 
-<b>This Meth Method od does not work anymore as Qovery has stopped Open Signup</b>
 
-<img src="https://i.imgur.com/VT7bQZb.png" alt="Deploy to Qovery"/>
+
+
+
 
 ## ᴏʀɪɢɪɴᴀʟ ʀᴇᴘᴏ & sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
