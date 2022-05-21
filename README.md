@@ -60,11 +60,11 @@
     
 </details>
 
+## 🌟 Deploying on Qovery
 
+<b>This Meth Method od does not work anymore as Qovery has stopped Open Signup</b>
 
-
-
-
+<img src="https://i.imgur.com/VT7bQZb.png" alt="Deploy to Qovery"/>
 
 ## ᴏʀɪɢɪɴᴀʟ ʀᴇᴘᴏ & sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
