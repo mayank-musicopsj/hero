@@ -115,7 +115,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_1.join_chat("LOVE_HEART_BEAT_143")
+            await ASS_CLI_1.join_chat("ABOUT_BANNA_XD")
             await ASS_CLI_1.join_chat("LOVE_BIRDS_123")
         except:
             pass
@@ -134,7 +134,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_2.join_chat("LOVE_HEART_BEAT_143")
+            await ASS_CLI_2.join_chat("ABOUT_BANNA_XD")
             await ASS_CLI_2.join_chat("LOVE_BIRDS_123")
         except:
             pass
@@ -153,7 +153,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_3.join_chat("LOVE_HEART_BEAT_143")
+            await ASS_CLI_3.join_chat("ABOUT_BANNA_XD")
             await ASS_CLI_3.join_chat("LOVE_BIRDS_123")
         except:
             pass
@@ -172,7 +172,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_4.join_chat("LOVE_HEART_BEAT_143")
+            await ASS_CLI_4.join_chat("ABOUT_BANNA_XD")
             await ASS_CLI_4.join_chat("LOVE_BIRDS_123")
         except:
             pass
@@ -191,7 +191,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_5.join_chat("LOVE_HEART_BEAT_143")
+            await ASS_CLI_5.join_chat("ABOUT_BANNA_XD")
             await ASS_CLI_5.join_chat("love_birds_group")
         except:
             pass
@@ -210,7 +210,7 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await LOG_CLIENT.join_chat("LOVE_HEART_BEAT_143")
+            await LOG_CLIENT.join_chat("ABOUT_BANNA_XD")
             await LOG_CLIENT.join_chat("LOVE_BIRDS_123")
         except:
             pass
