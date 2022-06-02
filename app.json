@@ -10,12 +10,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "751803",
+      "value": "14197747",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "8d67ad435aa43c0b0a60dcaa25bfbc25",
+      "value": "484379400d966514e49893667728fc3c",
       "required": true
     },
     "BOT_TOKEN": {
@@ -35,7 +35,7 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "AAARU_X_MUSIC_BOT",
+      "value": "BaNNa_xD_MuSIc_BoT",
       "required": true
     },
     "SUPPORT_CHANNEL": {
@@ -50,7 +50,7 @@
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "5568362278",
+      "value": "5345970531",
       "required": true
     },
     "STRING_SESSION1": {
@@ -90,7 +90,7 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "-1001387409295",
+      "value": "-1001732187477",
       "required": true
     },
     "SUDO_USERS": {
