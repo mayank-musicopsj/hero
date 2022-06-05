@@ -10,12 +10,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "14197747",
+      "value": "13956514",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "484379400d966514e49893667728fc3c",
+      "value": "c7736b2793be5933667b9a5b65d1157d",
       "required": true
     },
     "BOT_TOKEN": {
@@ -30,12 +30,12 @@
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "",
+      "value": "mongodb+srv://DEVDA123:DEVDA123@cluster0.mdzgb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "BaNNa_xD_MuSIc_BoT",
+      "value": "AaRu_RoBoT",
       "required": true
     },
     "SUPPORT_CHANNEL": {
@@ -50,7 +50,7 @@
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "5345970531",
+      "value": "5568362278",
       "required": true
     },
     "STRING_SESSION1": {
@@ -95,7 +95,7 @@
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "5244095604",
+      "value": "5568362278",
       "required": true
     },
     "LOG_SESSION": {
