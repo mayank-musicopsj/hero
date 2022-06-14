@@ -2,15 +2,15 @@
     ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs 
 </h4>
 <p align="center">
-    <a href="https://t.me/BANNA_XD_MUSIC_BOT"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
+    <a href="https://t.me/itz_star_boi"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
     <a href="https://t.me/LOVE_HEART_BEAT_143"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
-    <a href="https://t.me/love_birds_group"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> •
-    <a href="https://t.me/LOVE_BIRDS_123"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a>
+    <a href="https://t.me/Best_FriendsFor_Ever"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> •
+    <a href="https://t.me/Best_FriendsFor_Ever"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a>
 </p>
     
-# ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° ᴍᴜsɪᴄs ʙᴏᴛ
+# 𝐒𝐓𝐀𝐑 𓆩🇽𓆪 ᴍᴜsɪᴄ ʙᴏᴛ
 
-<p align="center"><a href="https://t.me/BANNA_XD"><img src="https://telegra.ph//file/e4bff82ab3fbc72818adc.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/itz_star_boi"><img src="https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg" width="300"></a></p>
 ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ʙʏ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ sᴛʀᴇᴀᴍ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ᴇᴠᴇɴ ʟɪᴠᴇ sᴛʀᴇᴀᴍs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄᴀʟʟs ᴠɪᴀ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs. ɪᴛ ᴄᴏᴍᴇs ᴡɪᴛʜ  ᴜsᴇʀ ғʀɪᴇɴᴅʟʏ ᴀɴᴅ ᴇᴀsʏ ᴛᴏ ᴜsᴇ ʏᴇᴛ ᴇʟᴇɢᴀɴᴛ ғᴇᴀᴛᴜʀᴇs.
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -68,7 +68,7 @@
 
 ## ᴏʀɪɢɪɴᴀʟ ʀᴇᴘᴏ & sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-[❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °](https://github.com/BANNA-XD143/BANNA-OP) 
+[𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈°](https://github.com/Starboihacks369/music-bot) 
 
 ## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
 
