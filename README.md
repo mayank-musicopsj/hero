@@ -54,7 +54,7 @@
 
     <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BANNA-XD143/BANNA-OP)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Starboihacks369/music-bot)</br>
 
 
     
