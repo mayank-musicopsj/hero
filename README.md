@@ -2,15 +2,15 @@
     ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs 
 </h4>
 <p align="center">
-    <a href="https://t.me/BANNA_XD_MUSIC_BOT"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
+    <a href="https://t.me/itz_star_boi"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
     <a href="https://t.me/LOVE_HEART_BEAT_143"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
-    <a href="https://t.me/love_birds_group"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> •
-    <a href="https://t.me/LOVE_BIRDS_123"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a>
+    <a href="https://t.me/Best_FriendsFor_Ever"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> •
+    <a href="https://t.me/Best_FriendsFor_Ever"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a>
 </p>
     
-# ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 ° ᴍᴜsɪᴄs ʙᴏᴛ
+# 𝐒𝐓𝐀𝐑 𓆩🇽𓆪 ᴍᴜsɪᴄ ʙᴏᴛ
 
-<p align="center"><a href="https://t.me/BANNA_XD"><img src="https://telegra.ph/file/eaa1c3f8fc5a0b6605ee3.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/itz_star_boi"><img src="https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg" width="300"></a></p>
 ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ʙʏ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ sᴛʀᴇᴀᴍ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ᴇᴠᴇɴ ʟɪᴠᴇ sᴛʀᴇᴀᴍs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄᴀʟʟs ᴠɪᴀ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs. ɪᴛ ᴄᴏᴍᴇs ᴡɪᴛʜ  ᴜsᴇʀ ғʀɪᴇɴᴅʟʏ ᴀɴᴅ ᴇᴀsʏ ᴛᴏ ᴜsᴇ ʏᴇᴛ ᴇʟᴇɢᴀɴᴛ ғᴇᴀᴛᴜʀᴇs.
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -54,21 +54,21 @@
 
     <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BANNA-XD143/BANNA-OP)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Starboihacks369/music-bot)</br>
 
 
     
 </details>
 
- <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ SCALINGO</h4> 
- 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/BANNA-XD143/BANNA-OP)
+
+
+
 
 
 
 ## ᴏʀɪɢɪɴᴀʟ ʀᴇᴘᴏ & sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-[❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °](https://github.com/BANNA-XD143/BANNA-OP) 
+[𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈°](https://github.com/Starboihacks369/music-bot) 
 
 ## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
 
