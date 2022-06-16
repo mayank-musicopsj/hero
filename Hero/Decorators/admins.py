@@ -36,14 +36,14 @@ def AdminActual(mystic):
     async def wrapper(_, message):
         if message.sender_chat:
             return await message.reply_text(
-                "ʏᴏᴜ'ʀᴇ ᴀɴ __ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ__\nʀᴇᴠᴇʀᴛ ʙᴀᴄᴋ ᴛᴏ ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ..."
+                "ʏᴏᴜ'ʀᴇ ᴀɴ __ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪ ʙᴀʙʏ__\nʀᴇᴠᴇʀᴛ ʙᴀᴄᴋ ᴛᴏ ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ..."
             )
         member = await app.get_chat_member(
             message.chat.id, message.from_user.id
         )
         if not member.can_manage_voice_chats:
             return await message.reply(
-                "ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ ᴘᴇʀғᴏʀᴍ ᴛʜɪs ᴀᴄᴛɪᴏɴ...\n\n__REQUIRES ADMIN WITH MANAGE VC RIGHTS__"
+                "ʙᴀʙʏ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ ᴘᴇʀғᴏʀᴍ ᴛʜɪs ᴀᴄᴛɪᴏɴ...\n\n__REQUIRES ADMIN WITH MANAGE VC RIGHTS__"
             )
         return await mystic(_, message)
 
@@ -65,7 +65,7 @@ def AdminRightsCheckCB(mystic):
                     )
                     if token not in _check:
                         return await CallbackQuery.answer(
-                            "ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ ᴘᴇʀғᴏʀᴍ ᴛʜɪs ᴀᴄᴛɪᴏɴ...\n\nPermission: MANAGE VOICE CHATS",
+                            "ʙᴀʙʏ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ ᴘᴇʀғᴏʀᴍ ᴛʜɪs ᴀᴄᴛɪᴏɴ...\n\nPermission: MANAGE VOICE CHATS",
                             show_alert=True,
                         )
         return await mystic(_, CallbackQuery)
@@ -80,7 +80,7 @@ def ActualAdminCB(mystic):
         )
         if not a.can_manage_voice_chats:
             return await CallbackQuery.answer(
-                "ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ ᴘᴇʀғᴏʀᴍ ᴛʜɪs ᴀᴄᴛɪᴏɴ...\n\nPermission: MANAGE VOICE CHATS",
+                "ʙᴀʙʏ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ ᴘᴇʀғᴏʀᴍ ᴛʜɪs ᴀᴄᴛɪᴏɴ...\n\nPermission: MANAGE VOICE CHATS",
                 show_alert=True,
             )
         return await mystic(_, CallbackQuery)
