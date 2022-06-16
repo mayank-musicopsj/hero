@@ -19,7 +19,7 @@ async def unban_assistant_(_, CallbackQuery):
     a = await app.get_chat_member(CallbackQuery.message.chat.id, BOT_ID)
     if not a.can_restrict_members:
         return await CallbackQuery.answer(
-            "ɪ ᴀᴍ ɴᴏᴛ ʜᴀᴠɪɴɢ ʙᴀɴ/ᴜɴʙᴀɴ ᴜsᴇʀ ᴘᴇʀᴍɪssɪᴏɴ. ᴀsᴋ ᴀɴʏ ᴀᴅᴍɪɴ ᴛᴏ ᴜɴʙᴀɴ ᴛʜᴇ ᴀssɪsᴛᴀɴᴛ...",
+            "ʙᴀʙʏ ɪ ᴀᴍ ɴᴏᴛ ʜᴀᴠɪɴɢ ʙᴀɴ/ᴜɴʙᴀɴ ᴜsᴇʀ ᴘᴇʀᴍɪssɪᴏɴ. ᴀsᴋ ᴀɴʏ ᴀᴅᴍɪɴ ᴛᴏ ᴜɴʙᴀɴ ᴛʜᴇ ᴀssɪsᴛᴀɴᴛ...",
             show_alert=True,
         )
     else:
@@ -29,11 +29,11 @@ async def unban_assistant_(_, CallbackQuery):
             )
         except:
             return await CallbackQuery.answer(
-                "ғᴀɪʟᴇᴅ ᴛᴏ ᴜɴʙᴀɴ",
+                "ғᴀɪʟᴇᴅ ᴛᴏ ᴜɴʙᴀɴ ʙᴀʙʏ ",
                 show_alert=True,
             )
         return await CallbackQuery.edit_message_text(
-            "ᴀssɪsᴛᴀɴᴛ ᴜɴʙᴀɴɴᴇᴅ ᴛʀʏ ᴘʟᴀʏɪɴɢ ɴᴏᴡ..."
+            "ᴀssɪsᴛᴀɴᴛ ᴜɴʙᴀɴɴᴇᴅ ᴛʀʏ ᴘʟᴀʏɪɴɢ ɴᴏᴡ ʙᴀʙʏ..."
         )
 
 
