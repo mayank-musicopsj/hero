@@ -55,7 +55,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🌸 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="🌸 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/Best_FriendsFor_Ever"
                 ),
             ],
         ]
@@ -114,7 +114,7 @@ def private_panel():
             [
                 InlineKeyboardButton(
                     "➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
-                    url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                    url=f"https://t.me/itz_star_robot?startgroup=true",
                 )
             ],
         ]
@@ -129,12 +129,12 @@ def private_panel():
             [
                 InlineKeyboardButton(
                     "➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
-                    url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                    url=f"https://t.me/itz_star_robot?startgroup=true",
                 )
             ],
             [
                 InlineKeyboardButton(
-                    text="🌸 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="🌸 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/Best_FriendsFor_Ever"
                 ),
             ],
         ]
@@ -169,7 +169,7 @@ def private_panel():
             [
                 InlineKeyboardButton(
                     "➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
-                    url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                    url=f"https://t.me/itz_star_robot?startgroup=true",
                 )
             ],
             [
@@ -177,7 +177,7 @@ def private_panel():
                     text="🌸 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
                 ),
                 InlineKeyboardButton(
-                    text="🌺 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="🌺 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/Best_FriendsFor_Ever"
                 ),
             ],
         ]
