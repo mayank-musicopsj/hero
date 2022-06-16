@@ -82,7 +82,7 @@ async def initiate_bot():
             status="[bold blue]Importation Completed!",
         )
     console.print(
-        "[bold green]ᴄᴏɴɢʀᴀᴛs ʜᴇʀᴏ ᴍᴜsɪᴄ ʙᴏᴛ ʜᴀs sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ 🌸✨\n"
+        "[bold green]ᴄᴏɴɢʀᴀᴛs ᴍᴜsɪᴄ ʙᴏᴛ ʜᴀs sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ 🌸✨\n"
     )
     try:
         await app.send_message(
@@ -115,8 +115,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_1.join_chat("ABOUT_BANNA_XD")
-            await ASS_CLI_1.join_chat("LOVE_BIRDS_123")
+            await ASS_CLI_1.join_chat("Best_FriendsFor_Ever")
+            await ASS_CLI_1.join_chat("Best_FriendsFor_Ever")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 1 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME1}")
@@ -172,8 +172,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_4.join_chat("ABOUT_BANNA_XD")
-            await ASS_CLI_4.join_chat("LOVE_BIRDS_123")
+            await ASS_CLI_4.join_chat("Best_FriendsFor_Ever")
+            await ASS_CLI_4.join_chat("Best_FriendsFor_Ever")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 4 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME4}")
@@ -191,8 +191,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_5.join_chat("ABOUT_BANNA_XD")
-            await ASS_CLI_5.join_chat("love_birds_group")
+            await ASS_CLI_5.join_chat("Best_FriendsFor_Ever")
+            await ASS_CLI_5.join_chat("Best_FriendsFor_Ever")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 5 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME5}")
@@ -210,11 +210,11 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await LOG_CLIENT.join_chat("ABOUT_BANNA_XD")
-            await LOG_CLIENT.join_chat("LOVE_BIRDS_123")
+            await LOG_CLIENT.join_chat("Best_FriendsFor_Ever")
+            await LOG_CLIENT.join_chat("Best_FriendsFor_Ever")
         except:
             pass
-    console.print(f"└[red] ʜᴇʀᴏ ᴍᴜsɪᴄ ʙᴏᴛ ʙᴏᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ...")
+    console.print(f"└[red] ᴍᴜsɪᴄ ʙᴏᴛ ʙᴏᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ...")
     if STRING1 != "None":
         await pytgcalls1.start()
     if STRING2 != "None":
@@ -329,6 +329,9 @@ async def start_command(_, message):
                     [
                         InlineKeyboardButton(
                             text="🎥 ᴡᴀᴛᴄʜ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ", url=f"{link}"
+                        ),
+                        InlineKeyboardButton(
+                            text="❤ sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/Best_FriendsFor_Ever"
                         ),
                         InlineKeyboardButton(
                             text="🔄 ᴄʟᴏsᴇ", callback_data="close"
