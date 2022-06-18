@@ -10,12 +10,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "13956514",
+      "value": "15599295",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "c7736b2793be5933667b9a5b65d1157d",
+      "value": "4ce42998f7df4a64934294dadca28ae0",
       "required": true
     },
     "BOT_TOKEN": {
@@ -35,22 +35,22 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "AaRu_RoBoT",
+      "value": "𝐒𝐓𝐀𝐑 🇽 𝐌𝐔𝐒𝐈𝐂",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "ABOUT_BANNA_XD",
+      "value": "Itz_star_network",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "LOVE_BIRDS_123",
+      "value": "Best_FriendsFor_Ever",
       "required": false
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "5568362278",
+      "value": "5470068285",
       "required": true
     },
     "STRING_SESSION1": {
@@ -90,12 +90,12 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "-1001732187477",
+      "value": "-1001749480929",
       "required": true
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "5568362278",
+      "value": "5470068285",
       "required": true
     },
     "LOG_SESSION": {
@@ -105,7 +105,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/BANNA-XD143/BANNA-OP",
+      "value": "https://github.com/Starboihacks369/music-bot",
       "required": true
     },
     "UPSTREAM_BRANCH": {
