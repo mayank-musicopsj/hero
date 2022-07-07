@@ -2,8 +2,8 @@
     ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs 
 </h4>
 <p align="center">
-    <a href="https://t.me/its_star_boi"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
-    <a href="https://t.me/LOVE_HEART_BEAT_143"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
+    <a href="https://t.me/itz_star_robot"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
+    <a href="https://t.me/Its_star_network"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
     <a href="https://t.me/Best_FriendsFor_Ever"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> •
     <a href="https://t.me/Best_FriendsFor_Ever"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a>
 </p>
